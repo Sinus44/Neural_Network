@@ -1,3 +1,5 @@
+# 1_NeuralNetwork_v1.0.0
+
 import random as rnd
 
 class Neuron():
